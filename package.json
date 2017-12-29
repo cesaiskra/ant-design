@@ -44,6 +44,7 @@
     "classnames": "~2.2.0",
     "create-react-class": "^15.6.0",
     "css-animation": "^1.2.5",
+    "docsearch.js": "^2.5.2",
     "dom-closest": "^0.2.0",
     "enquire.js": "^2.1.1",
     "lodash.debounce": "^4.0.8",
